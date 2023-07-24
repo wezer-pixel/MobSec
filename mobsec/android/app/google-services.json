@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "50173698522",
+    "project_id": "mobsec-b45c7",
+    "storage_bucket": "mobsec-b45c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50173698522:android:0669613f7c2d51f39f60e3",
+        "android_client_info": {
+          "package_name": "com.example.mobsec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50173698522-v5o9pbkhtf0onb8kgsmkdsb2bc8rukel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEvZnH-V-kwDgp1D7eVD-mgxvLh0HPyo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50173698522-v5o9pbkhtf0onb8kgsmkdsb2bc8rukel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
